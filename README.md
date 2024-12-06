@@ -1,1 +1,1 @@
-# TP1Recensement
+# Pour faire fonctionner le code il faut télécherger les 4 fichier .csv et le fichier TP1_Recensement_Houdin_Mehadi.py et les mettre dossier. Ensuite vous pouvez executer le code par terminal avec la commande python3 TP1_Recensement_Houdin_Mehadi.py si vous avez installer python.(Noubliez de vous placez dans le bon dossier dans le terminal)
